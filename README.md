@@ -21,4 +21,4 @@ All outputs (CSV tables and PDF figures) are written into the same directory as 
 Install directly from GitHub:
 
 ```bash
-pip install git+https://github.com/yourusername/metabarcoding_taxonomy.git
+pip install git+https://github.com/Newgenes1031/metabarcoding_taxonomy.git
